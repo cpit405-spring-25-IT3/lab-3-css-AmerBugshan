@@ -1,0 +1,15 @@
+.image-preview img{
+    border-top: 30px solid #85ceed;
+    border-right: 30px solid lightpink;
+    border-bottom: 30px solid lightgreen;
+    border-left: 30px solid #ffefd5;
+}
+table {
+    width: 50%;
+    text-align: left;
+    padding: 7px;
+}
+
+
+
+
